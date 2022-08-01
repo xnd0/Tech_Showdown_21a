@@ -14,5 +14,14 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xnd0/Tech_Showdown_21a.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/xnd0/Tech_Showdown_21a/issues"
+  },
+  "homepage": "https://github.com/xnd0/Tech_Showdown_21a#readme"
 }
